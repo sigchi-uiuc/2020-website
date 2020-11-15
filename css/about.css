@@ -1,0 +1,30 @@
+h3 {
+	color: black !important;
+	padding-top:50px;
+	font-size: 28px;
+}
+
+h1, h3 {
+	color:blue;
+	text-align: center;
+}
+h1 {
+	padding-top: 50px;
+}
+
+
+#images {
+	padding-top:100px;
+	display: flex;
+	justify-content:space-between;
+	max-width: 1200px;
+	margin: auto; 
+}
+
+
+#images img {
+	max-width:250px;
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
